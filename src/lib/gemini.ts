@@ -38,7 +38,7 @@ Instructions:
 2. Create an English Title and a Korean Title.
 3. Determine 1 or 2 main genres that best describe the song.
 4. Write English lyrics and Korean lyrics. The lyrics must be structured with sections: [Verse 1], [Pre-Chorus], [Chorus], [Verse 2], [Chorus], [Bridge], [Chorus], [Outro].
-   IMPORTANT: The length of the lyrics MUST be concise and suitable for a song strictly under 3 minutes (around 2 minutes 30 seconds). Do not write too many verses or repeated choruses.
+   IMPORTANT: The length of the lyrics MUST be concise and suitable for a song strictly under 2 minutes 45 seconds (around 2 minutes 15 seconds). Do not write too many verses or repeated choruses.
 5. Create a music generation prompt. You MUST base it on one of the following base prompts that best fits the mood and theme, or adapt it slightly:
    Base Prompts:
    ${BASE_PROMPTS.map((p, i) => `[${i + 1}] ${p}`).join("\n")}
